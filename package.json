@@ -1,6 +1,6 @@
 {
-  "name": "htmllint-cli",
-  "version": "0.0.7",
+  "name": "@tspmelo/htmllint-cli",
+  "version": "0.0.8",
   "description": "A simple cli for htmllint.",
   "bin": {
     "htmllint": "./bin/cli.js"
@@ -8,13 +8,13 @@
   "preferGlobal": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/htmllint/htmllint-cli.git"
+    "url": "https://github.com/tspmelo/htmllint-cli.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/htmllint/htmllint-cli/issues"
+    "url": "https://github.com/tspmelo/htmllint-cli/issues"
   },
-  "homepage": "https://github.com/htmllint/htmllint-cli",
+  "homepage": "https://github.com/tspmelo/htmllint-cli",
   "engines": {
     "node": ">=4"
   },
